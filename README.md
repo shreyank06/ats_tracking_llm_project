@@ -7,6 +7,8 @@ End to end Smart ATS Resume Analyzer. This tool uses Google Gemini API, which pr
 
 The app is built using Streamlit, which is an open-source framework used to quickly build and deploy interactive web applications for data science and machine learning projects.
 
+# Steps to start the app
+
 1. To activate conda env
 ```
 conda activate llm-project

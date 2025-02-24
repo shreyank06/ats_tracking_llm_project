@@ -1,5 +1,11 @@
 # ATS_tracking_llm_project
-End To End Resume ATS Tracking LLM Project 
+End to end Smart ATS Resume Analyzer. This tool uses Google Gemini API, which provides an interface to leverage Google’s **Large Language Models (LLMs)** for various text-based tasks. It analyzes resumes against job descriptions to:
+
+1. **Match Percentage:** Shows how well your resume fits the job description.
+2. **Missing Keywords:** Highlights any missing key terms.
+3. **Profile Summary:** Offers a summary based on your resume.
+
+The app is built using Streamlit, which is an open-source framework used to quickly build and deploy interactive web applications for data science and machine learning projects.
 
 1. To activate conda env
 ```

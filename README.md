@@ -23,6 +23,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+As of now this app is directly hosten on render so 
+
 4. Link for using the app
 ```
  https://resume-analyzer-llm-a9683c4f0dc4.herokuapp.com/

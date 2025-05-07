@@ -25,7 +25,7 @@ streamlit run app.py
 
 As of now this app is directly hosten on render so 
 
-4. Link for using the app
+4. Link for using the app, it will be slow to load as free hosting is used.
 ```
- https://resume-analyzer-llm-a9683c4f0dc4.herokuapp.com/
+https://ats-tracking-llm-project.onrender.com/
  ```

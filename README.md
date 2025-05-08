@@ -22,13 +22,6 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-4. steps to deply on heroku
-```
-heroku create rname
- ```
- ```
- git push heroku main
- ```
 
 As of now this app is directly hosten on render so 
 

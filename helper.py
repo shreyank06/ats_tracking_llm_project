@@ -13,7 +13,7 @@ def configure_genai(api_key):
 def get_gemini_response(prompt):
     "Get a response from the Gemini model with error handling"
     try:
-        model = genai.GenerativeModel("gemini-pro")
+        model = genai.GenerativeModel("models/gemini-1.5-pro-002")
         response = model.generate_content(prompt)
         print(f"Response type: {type(response)}")
         print(f"Response content: {response}")

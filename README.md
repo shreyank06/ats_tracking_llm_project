@@ -14,8 +14,15 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+4. steps to deply on heroku
+```
+heroku create rname
+ ```
+ ```
+ git push heroku main
+ ```
 
-4. Link for using the app
+5. Link for using the app
 ```
  https://resume-analyzer-llm-a9683c4f0dc4.herokuapp.com/
  ```

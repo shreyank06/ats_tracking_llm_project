@@ -34,5 +34,5 @@ As of now this app is directly hosten on render so
 
 4. Link for using the app, it will be slow to load as free hosting is used.
 ```
-https://ats-tracking-llm-project.onrender.com/
+https://ats-tracking-llm-project-82xf.onrender.com
  ```

@@ -24,7 +24,7 @@ streamlit run app.py
 ```
 
 
-4. As of now this app is directly hosten on render so 
-   **Link** for using the app, it will be **slow** to load as free hosting is used.
+4. As of now this app is directly hosten on render so **Link** for using the app, it will be **slow** to load as free hosting is used.
+
 [https://ats-tracking-llm-project-82xf.onrender.com](https://ats-tracking-llm-project-82xf.onrender.com)
 
